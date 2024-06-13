@@ -1,1 +1,1 @@
-# Data-Science
+analyzing historical stock/revenue data
